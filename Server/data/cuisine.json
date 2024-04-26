@@ -1,0 +1,135 @@
+[
+  {
+    "name": "tuna sashimi",
+    "description": "mackerel sashimi",
+    "price": 34263,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "salmon sashimi",
+    "description": "eel sashimi",
+    "price": 30396,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "yellowtail sashimi",
+    "description": "eel sashimi",
+    "price": 37816,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "octopus sashimi",
+    "description": "tuna sashimi",
+    "price": 36096,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "mackerel sashimi",
+    "description": "squid sashimi",
+    "price": 36005,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "shrimp sashimi",
+    "description": "tuna sashimi",
+    "price": 44060,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "scallop sashimi",
+    "description": "mackerel sashimi",
+    "price": 43657,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "squid sashimi",
+    "description": "octopus sashimi",
+    "price": 35724,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "eel sashimi",
+    "description": "yellowtail sashimi",
+    "price": 37175,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "snapper sashimi",
+    "description": "squid sashimi",
+    "price": 36658,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "California roll",
+    "description": "California roll",
+    "price": 46824,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Spicy tuna roll",
+    "description": "Spicy tuna roll",
+    "price": 34616,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  { "name": "Eel sushi", "description": "Eel sushi", "price": 46550, "imgUrl": "https://www.example.com/imaged.jpg", "authorId": 1, "categoryId": 2 },
+  {
+    "name": "Tempura shrimp roll",
+    "description": "Tempura shrimp roll",
+    "price": 49468,
+    "imgUrl": "https://www.example.com/imaged.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Vegetable roll",
+    "description": "Rainbow roll",
+    "price": 31326,
+    "imgUrl": "https://www.example.com/imagedd.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  { "name": "salmon", "description": "salmon", "price": 49717, "imgUrl": "https://example.com/image2.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "tuna", "description": "tuna", "price": 42120, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "shrimp", "description": "shrimp", "price": 44729, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "eel", "description": "eel", "price": 38582, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "yellowtail", "description": "yellowtail", "price": 35923, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "octopus", "description": "octopus", "price": 43096, "imgUrl": "https://example.com/image2.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "mackerel", "description": "mackerel", "price": 39627, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "squid", "description": "scallop", "price": 48604, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "scallop", "description": "squid", "price": 38592, "imgUrl": "https://example.com/image2.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "crab", "description": "crab", "price": 41022, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "egg", "description": "egg", "price": 43000, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "tamago", "description": "flying fish roe", "price": 46522, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "avocado", "description": "sea urchin", "price": 47030, "imgUrl": "https://example.com/image2.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "cucumber", "description": "sweet shrimp", "price": 42933, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "asparagus", "description": "toro", "price": 42183, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "mushroom", "description": "halibut", "price": 48472, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "seared salmon", "description": "snapper", "price": 42159, "imgUrl": "https://example.com/image2.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "seared tuna", "description": "clam", "price": 47757, "imgUrl": "https://example.com/image1.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "spicy tuna", "description": "miso soup", "price": 36886, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 },
+  { "name": "spicy salmon", "description": "tamago", "price": 37600, "imgUrl": "https://example.com/image3.jpg", "authorId": 1, "categoryId": 3 }
+]

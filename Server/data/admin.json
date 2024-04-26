@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Admin1",
+    "email": "admin1@KKitchen.com",
+    "password": "12341234",
+    "role": "admin",
+    "phoneNumber": "021331331331",
+    "address": "Kabuki Kitchen"
+  },
+  {
+    "username": "Admin2",
+    "email": "admin2@KKitchen.com",
+    "password": "12341234",
+    "role": "admin",
+    "phoneNumber": "021331331331",
+    "address": "Kabuki Kitchen"
+  },
+  {
+    "username": "Staff1",
+    "email": "staff@KKitchen.com",
+    "password": "12341234",
+    "role": "Staff",
+    "phoneNumber": "021331331331",
+    "address": "Kabuki Kitchen"
+  }
+]
